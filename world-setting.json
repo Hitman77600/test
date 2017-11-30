@@ -20,8 +20,8 @@
   "flatAreas": [
     {
       "radius": 200,
-      "xLocation": -267,
-      "zLocation": -269,
+      "xLocation": 0,
+      "zLocation": 0,
       "baseLevel": 70,
       "outerRadius": 200
     }
